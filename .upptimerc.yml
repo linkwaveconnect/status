@@ -23,11 +23,56 @@ status-website:
   navbar:
     - title: LinkWave Status
       href: /
-    - title: Main Site
+    - title: Site principal
       href: https://linkwaveconnect.com.br
+    - title: Main Site
+      href: https://en.linkwaveconnect.com.br
 
 i18n:
   footer: "All rights reserved | Todos os direitos reservados - LinkWave Connect LTDA - CNPJ: 53.108.042/0001-07"
+  activeIncidents: Active Incidents/Incidentes Ativos
+  allSystemsOperational: All systems are operational/Todos os sistemas estão operacionais
+  incidentReport: "Incident #$NUMBER report/Relatório do Incidente #$NUMBER →"
+  activeIncidentSummary: Opened at $DATE with $POSTS posts/Aberto em $DATE com $POSTS posts
+  incidentTitle: Incident $NUMBER Details/Detalhes do Incidente $NUMBER
+  incidentDetails: Incident Details/Detalhes do Incidente
+  incidentFixed: Fixed/Finalizado
+  incidentOngoing: Ongoing/Em andamento
+  incidentOpenedAt: Opened at/Aberto em
+  incidentClosedAt: Closed at/Fechado em
+  incidentViewOnGitHub: View and Subscribe on GitHub/Ver e Inscrever pelo Github
+  incidentCommentSummary: Posted at $DATE by $AUTHOR/Postado em $DATE por $AUTHOR
+  incidentBack: ← Back to all incidents/Todos os incidentes
+  pastIncidents: Past Incidents/Incidentes Passados
+  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts/Solucionado em $MINUTES minutos com $POSTS posts
+  liveStatus: Live Status/Status ao vivo
+  overallUptime: "Overall uptime/Tempo de atividade geral: $UPTIME"
+  overallUptimeTitle: Overall uptime/Tempo de atividade geral
+  averageResponseTime: "Average response time/Tempo médio de resposta: $TIMEms"
+  averageResponseTimeTitle: Average response time/Tempo médio de resposta
+  sevelDayResponseTime: 7-day response time/Tempo de resposta em 7 dias
+  responseTimeMs: Response time/Tempo de resposta (ms)
+  up: Online
+  down: Offline
+  degraded: Degraded/Degradado
+  ms: ms
+  loading: Loading/Carregando
+  navGitHub: GitHub
+  errorTitle: An error occurred/Um erro ocorreu
+  errorIntro: An error occurred in trying to get the latest status details./Ocorreu um erro ao tentar obter os detalhes de status mais recentes.
+  errorText: You can try again in a few moments./Você pode tentar novamente em alguns instantes.
+  errorHome: Go to the homepage/Ir para a página inicial
+  pastScheduledMaintenance: Past Scheduled Maintenance/Manutenção Programada Anterior
+  scheduledMaintenance: Scheduled Maintenance/Manutençao Programada
+  scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes/Começou em $DATE por $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes/Começa em $DATE por $DURATION minutos
+  startedAt: Started at/Começou em
+  startsAt: Starts at/Começa em
+  duration: Duration/Duração
+  durationMin: $DURATION minutes/ $DURATION minutos
+  incidentCompleted: Completed/Completo
+  incidentScheduled: Scheduled/Programado
+  durationAll: all/todo
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
