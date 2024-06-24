@@ -9,13 +9,6 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -33,7 +26,7 @@ status-website:
       href: https://linkwaveconnect.com.br
 
 i18n:
-  footer: "All rights reserved - LinkWave Connect LTDA | Todos os direitos reservados - LinkWave Connect LTDA - CNPJ: 53.108.042/0001-07"
+  footer: "All rights reserved | Todos os direitos reservados - LinkWave Connect LTDA - CNPJ: 53.108.042/0001-07"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
