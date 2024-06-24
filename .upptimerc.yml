@@ -15,7 +15,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.linkwaveconnect.com.br
   # baseUrl: /your-repo-name
-  logoUrl: https://status.linkwaveconnect.com.br/assets/logo.svg
+  logoUrl: https://search.linkwaveconnect.com.br/assets/images/doogleLogo.png
   name: LinkWave Status
   introTitle: "Status page for all LinkWave related websites"
   introMessage: This is the LinkWave's Status page for every service that linkwave offers
