@@ -18,7 +18,8 @@ status-website:
   logoUrl: https://search.linkwaveconnect.com.br/assets/images/doogleLogo.png
   name: LinkWave Status
   introTitle: "Status page for all LinkWave related websites"
-  introMessage: This is the LinkWave's Status page for every service that linkwave offers
+  introMessage: Página de status para todos os serviços da LinkWave
+  theme: dark
   navbar:
     - title: LinkWave Status
       href: /
