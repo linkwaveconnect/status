@@ -19,7 +19,7 @@ status-website:
   name: LinkWave Status
   introTitle: "Status page for all LinkWave related websites"
   introMessage: Página de status para todos os serviços da LinkWave
-  theme: ocean
+  theme: night
   navbar:
     - title: LinkWave Status
       href: /
