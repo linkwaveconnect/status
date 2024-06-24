@@ -33,7 +33,7 @@ status-website:
       href: https://linkwaveconnect.com.br
 
 i18n:
-  footer: All rights reserved - LinkWave Connect LTDA | Todos os direitos reservados - LinkWave Connect LTDA - CNPJ: 53.108.042/0001-07
+  footer: "All rights reserved - LinkWave Connect LTDA | Todos os direitos reservados - LinkWave Connect LTDA - CNPJ: 53.108.042/0001-07"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
