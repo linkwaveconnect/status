@@ -3,6 +3,7 @@ owner: linkwaveconnect # Your GitHub organization or username, where this reposi
 repo: status # The name of this repository
 
 sites:
+# Sites da LinkWave
   - name: LinkWave Connect
     url: https://linkwaveconnect.com.br
   - name: LinkWave Connect EN
@@ -17,18 +18,29 @@ sites:
     url: https://pod.ti.linkwaveconnect.com.br
   - name: LinkWave Status
     url: https://status.linkwaveconnect.com.br
+    
+  # Servidor para OSS
   - name: Open Source Hosting Server
     url: $OSSERVER
-
+    
+  # Servidor Compartilhado 1 (LKW1)
   - name: Cpanel (LKW1)
-    url: https://cpanel.linkwaveconnect.com.br
+    url: $CPANELLKW1
   - name: CalDav (LKW1) (SSL/TLS)
-    url: https://mail.linkwaveconnect.com.br
+    url: $CALDAVLKW1
     port: 2080
   - name: CardDav (LKW1) (SSL/TLS)
-    url: https://mail.linkwaveconnect.com.br
+    url: $CARDDAVLKW1
     port: 2080
-    
+  - name: CalDav (LKW1) (Insecure)
+    url: $CALDAVLKW1I
+    port: 2079
+  - name: CardDav (LKW1) (Insecure)
+    url: $CARDDAVLKW1I
+    port: 2079
+  - name: WebDav (LKW1) (SSL/TLS)
+    url: $WEBDAVLKW1
+    port: 444
   
 
 status-website:
