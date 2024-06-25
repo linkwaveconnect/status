@@ -26,18 +26,44 @@ sites:
   # Servidor Compartilhado 1 (LKW1)
   - name: Cpanel (LKW1)
     url: $CPANELLKW1
+  - name: Webmail (LKW1)
+    url: $WEBMAILLKW1
+  - name: IMAP (LKW1) (SSL/TLS)
+    check: "tcp-ping"
+    url: $IMAPLKW1
+    port: 993
+  - name: IMAP (LKW1) (Insecure)
+    check: "tcp-ping"
+    url: $IMAPLKW1
+    port: 143
+  - name: POP3 (LKW1) (SSL/TLS)
+    check: "tcp-ping"
+    url: $POP3LKW1
+    port: 995
+  - name: POP3 (LKW1) (Insecure)
+    check: "tcp-ping"
+    url: $POP3LKW1
+    port: 110
+  - name: SMTP (LKW1) (SSL/TLS)
+    check: "tcp-ping"
+    url: $SMTPLKW1
+    port: 465
+  - name: SMTP (LKW1) (Insecure)
+    check: "tcp-ping"
+    url: $SMTPLKW1
+    port: 587
   - name: CalDav (LKW1) (SSL/TLS)
     check: "tcp-ping"
     url: $CALDAVLKW1
-    port: 2080
-  - name: CardDav (LKW1) (SSL/TLS)
-    check: "tcp-ping"
-    url: $CARDDAVLKW1
     port: 2080
   - name: CalDav (LKW1) (Insecure)
     check: "tcp-ping"
     url: $CALDAVLKW1I
     port: 2079
+  - name: CardDav (LKW1) (SSL/TLS)
+    check: "tcp-ping"
+    url: $CARDDAVLKW1
+    port: 2080
   - name: CardDav (LKW1) (Insecure)
     check: "tcp-ping"
     url: $CARDDAVLKW1I
