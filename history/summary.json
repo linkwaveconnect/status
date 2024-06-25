@@ -203,11 +203,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cal-dav-lkw-1-insecure",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -223,19 +223,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "card-dav-lkw-1-insecure",
     "status": "up",
-    "uptime": "2.22%",
-    "uptimeDay": "2.22%",
-    "uptimeWeek": "2.22%",
-    "uptimeMonth": "2.22%",
-    "uptimeYear": "2.22%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 20,
     "timeDay": 20,
     "timeWeek": 20,
     "timeMonth": 20,
     "timeYear": 20,
-    "dailyMinutesDown": {
-      "2024-06-25": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WebDav (LKW1) (SSL/TLS)",
@@ -243,18 +241,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web-dav-lkw-1-ssl-tls",
     "status": "up",
-    "uptime": "1.84%",
-    "uptimeDay": "1.84%",
-    "uptimeWeek": "1.84%",
-    "uptimeMonth": "1.84%",
-    "uptimeYear": "1.84%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 263,
     "timeDay": 263,
     "timeWeek": 263,
     "timeMonth": 263,
     "timeYear": 263,
-    "dailyMinutesDown": {
-      "2024-06-25": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
