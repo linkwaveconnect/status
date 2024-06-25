@@ -4,18 +4,20 @@ repo: status # The name of this repository
 
 sites:
   - name: LinkWave Connect
-    url: https://linkwaveconnect.com.br
+    url: linkwaveconnect.com.br
   - name: LinkWave Connect EN
-    url: https://en.linkwaveconnect.com.br
+    url: en.linkwaveconnect.com.br
   - name: LinkWave Portal
-    url: https://web.linkwaveconnect.com.br
+    url: web.linkwaveconnect.com.br
   - name: LinkWave Search
-    url: https://search.linkwaveconnect.com.br
+    url: search.linkwaveconnect.com.br
   - name: LinkWave PrivateBin
     url: bin.linkwaveconnect.com.br
   - name: LinkWave Podcasts
     url: pod.ti.linkwaveconnect.com.br
-  - name: Open Source Hosting
+  - name: LinkWave Status
+    url: status.linkwaveconnect.com.br
+  - name: Open Source Hosting Server
     url: $OSSERVER
   
 
