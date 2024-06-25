@@ -27,18 +27,23 @@ sites:
   - name: Cpanel (LKW1)
     url: $CPANELLKW1
   - name: CalDav (LKW1) (SSL/TLS)
+    check: "tcp-ping"
     url: $CALDAVLKW1
     port: 2080
   - name: CardDav (LKW1) (SSL/TLS)
+    check: "tcp-ping"
     url: $CARDDAVLKW1
     port: 2080
   - name: CalDav (LKW1) (Insecure)
+    check: "tcp-ping"
     url: $CALDAVLKW1I
     port: 2079
   - name: CardDav (LKW1) (Insecure)
+    check: "tcp-ping"
     url: $CARDDAVLKW1I
     port: 2079
   - name: WebDav (LKW1) (SSL/TLS)
+    check: "tcp-ping"
     url: $WEBDAVLKW1
     port: 444
   
