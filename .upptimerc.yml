@@ -4,21 +4,29 @@ repo: status # The name of this repository
 
 sites:
   - name: LinkWave Connect
-    url: linkwaveconnect.com.br
+    url: https://linkwaveconnect.com.br
   - name: LinkWave Connect EN
-    url: en.linkwaveconnect.com.br
+    url: https://en.linkwaveconnect.com.br
   - name: LinkWave Portal
-    url: web.linkwaveconnect.com.br
+    url: https://web.linkwaveconnect.com.br
   - name: LinkWave Search
-    url: search.linkwaveconnect.com.br
+    url: https://search.linkwaveconnect.com.br
   - name: LinkWave PrivateBin
-    url: bin.linkwaveconnect.com.br
+    url: https://bin.linkwaveconnect.com.br
   - name: LinkWave Podcasts
-    url: pod.ti.linkwaveconnect.com.br
+    url: https://pod.ti.linkwaveconnect.com.br
   - name: LinkWave Status
-    url: status.linkwaveconnect.com.br
+    url: https://status.linkwaveconnect.com.br
   - name: Open Source Hosting Server
     url: $OSSERVER
+
+  - name: Cpanel (LKW1)
+    url: https://cpanel.linkwaveconnect.com.br
+  - name: CalDav (LKW1) (SSL/TLS)
+    url: https://mail.linkwaveconnect.com.br:2080
+  - name: CardDav (LKW1) (SSL/TLS)
+    url: https://mail.linkwaveconnect.com.br:2080
+    
   
 
 status-website:
