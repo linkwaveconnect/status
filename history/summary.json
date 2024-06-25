@@ -113,18 +113,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "open-source-hosting",
     "status": "down",
-    "uptime": "10.13%",
-    "uptimeDay": "10.13%",
-    "uptimeWeek": "10.13%",
-    "uptimeMonth": "10.13%",
-    "uptimeYear": "10.13%",
+    "uptime": "0.16%",
+    "uptimeDay": "0.16%",
+    "uptimeWeek": "0.16%",
+    "uptimeMonth": "0.16%",
+    "uptimeYear": "0.16%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-25": 0
+      "2024-06-25": 8
     }
   }
 ]
