@@ -23,9 +23,11 @@ sites:
   - name: Cpanel (LKW1)
     url: https://cpanel.linkwaveconnect.com.br
   - name: CalDav (LKW1) (SSL/TLS)
-    url: https://mail.linkwaveconnect.com.br:2080
+    url: https://mail.linkwaveconnect.com.br
+    port: 2080
   - name: CardDav (LKW1) (SSL/TLS)
-    url: https://mail.linkwaveconnect.com.br:2080
+    url: https://mail.linkwaveconnect.com.br
+    port: 2080
     
   
 
