@@ -3,12 +3,22 @@ owner: linkwaveconnect # Your GitHub organization or username, where this reposi
 repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: LinkWave Connect
+    url: https://linkwaveconnect.com.br
+  - name: LinkWave Connect EN
+    url: https://en.linkwaveconnect.com.br
+  - name: LinkWave Portal
+    url: https://web.linkwaveconnect.com.br
+  - name: LinkWave Search
+    url: https://search.linkwaveconnect.com.br
+  - name: LinkWave PrivateBin
+    url: https://bin.linkwaveconnect.com.br
+  - name: LinkWave Podcasts
+    url: https://pod.ti.linkwaveconnect.com.br
+  - name: Open Source Hosting
+    check: "tcp-ping"
+    url: $OSSERVER
+    port: 443
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
