@@ -167,19 +167,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.linkwaveconnect.com.br.ico",
     "slug": "cal-dav-lkw-1-ssl-tls",
     "status": "up",
-    "uptime": "2.60%",
-    "uptimeDay": "2.60%",
-    "uptimeWeek": "2.60%",
-    "uptimeMonth": "2.60%",
-    "uptimeYear": "2.60%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 469,
     "timeDay": 469,
     "timeWeek": 469,
     "timeMonth": 469,
     "timeYear": 469,
-    "dailyMinutesDown": {
-      "2024-06-25": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CardDav (LKW1) (SSL/TLS)",
@@ -187,18 +185,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.linkwaveconnect.com.br.ico",
     "slug": "card-dav-lkw-1-ssl-tls",
     "status": "up",
-    "uptime": "1.95%",
-    "uptimeDay": "1.95%",
-    "uptimeWeek": "1.95%",
-    "uptimeMonth": "1.95%",
-    "uptimeYear": "1.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 201,
     "timeDay": 201,
     "timeWeek": 201,
     "timeMonth": 201,
     "timeYear": 201,
-    "dailyMinutesDown": {
-      "2024-06-25": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
