@@ -18,12 +18,30 @@ sites:
     url: https://pod.ti.linkwaveconnect.com.br
   - name: LinkWave Status
     url: https://status.linkwaveconnect.com.br
+
+  # Hospedagem de DNS
+  - name: Nameserver 1
+    check: "tcp-ping"
+    url: $NAMESERVER1
+    port: 53
+  - name: Nameserver 2
+    check: "tcp-ping"
+    url: $NAMESERVER2
+    port: 53
     
   # Servidor para OSS
   - name: Open Source Hosting Server
     url: $OSSERVER
     
   # Servidor Compartilhado 1 (LKW1)
+  - name: Nameserver 5 (LKW1)
+    check: "tcp-ping"
+    url: $NAMESERVER5LKW1
+    port: 53
+  - name: Nameserver 6 (LKW1)
+    check: "tcp-ping"
+    url: $NAMESERVER6LKW1
+    port: 53
   - name: Cpanel (LKW1)
     url: $CPANELLKW1
   - name: Webmail (LKW1)
@@ -52,6 +70,10 @@ sites:
     check: "tcp-ping"
     url: $SMTPLKW1
     port: 587
+  - name: FTP (LKW1) (Insecure)
+    check: "tcp-ping"
+    url: $FTPLKW1
+    port: 21
   - name: CalDav (LKW1) (SSL/TLS)
     check: "tcp-ping"
     url: $CALDAVLKW1
