@@ -1,7 +1,7 @@
 url: $NAMESERVER5LKW1
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-01T20:20:41.735Z
+status: up
+code: 200
+responseTime: 21
+lastUpdated: 2024-07-01T20:30:26.349Z
 startTime: 2024-06-25T04:20:59.357Z
 generator: Upptime <https://github.com/upptime/upptime>
