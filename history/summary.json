@@ -184,36 +184,40 @@
     "url": "$NAMESERVER5LKW1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nameserver-5-lkw-1",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 35,
     "timeDay": 51,
     "timeWeek": 35,
     "timeMonth": 35,
     "timeYear": 35,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-01": 2
+    }
   },
   {
     "name": "Nameserver 6 (LKW1)",
     "url": "$NAMESERVER6LKW1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nameserver-6-lkw-1",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 35,
     "timeDay": 51,
     "timeWeek": 35,
     "timeMonth": 35,
     "timeYear": 35,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-01": 2
+    }
   },
   {
     "name": "Cpanel (LKW1)",
@@ -221,18 +225,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cpanel-lkw-1",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.54%",
+    "uptimeDay": "96.93%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
     "time": 281,
     "timeDay": 231,
     "timeWeek": 281,
     "timeMonth": 281,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2024-07-01": 1
+      "2024-07-01": 44
     }
   },
   {
@@ -241,18 +245,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail-lkw-1",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.55%",
+    "uptimeDay": "96.96%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 278,
     "timeDay": 329,
     "timeWeek": 278,
     "timeMonth": 278,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2024-07-01": 0
+      "2024-07-01": 44
     }
   },
   {
@@ -260,126 +264,140 @@
     "url": "$IMAPLKW1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "imap-lkw-1-ssl-tls",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 33,
     "timeDay": 50,
     "timeWeek": 33,
     "timeMonth": 33,
     "timeYear": 33,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-01": 2
+    }
   },
   {
     "name": "IMAP (LKW1) (Insecure)",
     "url": "$IMAPLKW1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "imap-lkw-1-insecure",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 34,
     "timeDay": 51,
     "timeWeek": 34,
     "timeMonth": 34,
     "timeYear": 34,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-01": 2
+    }
   },
   {
     "name": "POP3 (LKW1) (SSL/TLS)",
     "url": "$POP3LKW1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pop-3-lkw-1-ssl-tls",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 33,
     "timeDay": 50,
     "timeWeek": 33,
     "timeMonth": 33,
     "timeYear": 33,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-01": 2
+    }
   },
   {
     "name": "POP3 (LKW1) (Insecure)",
     "url": "$POP3LKW1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pop-3-lkw-1-insecure",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 34,
     "timeDay": 53,
     "timeWeek": 34,
     "timeMonth": 34,
     "timeYear": 34,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-01": 2
+    }
   },
   {
     "name": "SMTP (LKW1) (SSL/TLS)",
     "url": "$SMTPLKW1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-lkw-1-ssl-tls",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 34,
     "timeDay": 50,
     "timeWeek": 34,
     "timeMonth": 34,
     "timeYear": 34,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-01": 2
+    }
   },
   {
     "name": "SMTP (LKW1) (Insecure)",
     "url": "$SMTPLKW1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-lkw-1-insecure",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 34,
     "timeDay": 50,
     "timeWeek": 34,
     "timeMonth": 34,
     "timeYear": 34,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-01": 2
+    }
   },
   {
     "name": "FTP (LKW1) (Insecure)",
     "url": "$FTPLKW1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ftp-lkw-1-insecure",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 35,
     "timeDay": 49,
     "timeWeek": 35,
     "timeMonth": 35,
     "timeYear": 35,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-01": 2
+    }
   },
   {
     "name": "CalDav (LKW1) (SSL/TLS)",
