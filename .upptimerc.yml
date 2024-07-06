@@ -8,10 +8,12 @@ sites:
     url: https://linkwaveconnect.com.br
   - name: LinkWave Connect EN
     url: https://en.linkwaveconnect.com.br
-  - name: LinkWave Portal
+  - name: LinkWave Portal / Accounts
     url: https://web.linkwaveconnect.com.br
   - name: LinkWave Search
     url: https://search.linkwaveconnect.com.br
+  - name: GitWave
+    url: https://git.linkwaveconnect.com.br
   - name: LinkWave PrivateBin
     url: https://bin.linkwaveconnect.com.br
   - name: LinkWave Podcasts
