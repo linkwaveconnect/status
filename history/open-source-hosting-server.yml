@@ -1,7 +1,7 @@
 url: $OSSERVER
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-09T17:59:27.210Z
+status: up
+code: 200
+responseTime: 670
+lastUpdated: 2024-07-09T19:18:42.251Z
 startTime: 2024-06-25T01:52:30.675Z
 generator: Upptime <https://github.com/upptime/upptime>
