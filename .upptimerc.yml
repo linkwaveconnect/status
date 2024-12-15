@@ -5,12 +5,20 @@ repo: status # The name of this repository
 sites:
   - name: LinkWave Connect
     url: https://linkwaveconnect.com.br
+  - name: LinkWave Marketing
+    url: https://mkt.linkwaveconnect.com.br
+  - name: LinkWave TI
+    url: https://os.linkwaveconnect.com.br
   - name: Portal LinkWave / Conta Linkwave (LinkWave Account)
     url: https://web.linkwaveconnect.com.br
   - name: OpenWave SpeedTest
     url: https://speed.openwave.net.br
   - name: GitWave
     url: https://git.openwave.net.br
+  - name: KanWave
+    url: https://kan.linkwaveconnect.com.br
+  - name: LinkBin
+    url: https://bin.openwave.net.br
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,12 +28,11 @@ status-website:
   logoUrl: https://linkwaveconnect.com.br/wp-content/uploads/2022/07/logolink-300x81.png
   name: LinkWave Status
   introTitle: "Site oficial de monitoramento dos serviços da LInkWave Connect<br>Official website for monitoring LinkWave Connect Services"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
+    - title: Site princiapl<br>Main site
+      href: https://linkwaveconnect.com.br
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
