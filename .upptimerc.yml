@@ -3,19 +3,12 @@ owner: linkwaveconnect # Your GitHub organization or username, where this reposi
 repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: LinkWave Connect
+    url: https://linkwaveconnect.com.br
+  - name: Portal LinkWave / Conta Linkwave (LinkWave Account)
+    url: https://web.linkwaveconnect.com.br
+  - name: OpenWave SpeedTest
+    url: https://speed.openwave.net.br
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
