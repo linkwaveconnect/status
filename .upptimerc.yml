@@ -29,10 +29,10 @@ status-website:
   name: LinkWave Status
   introTitle: "Site oficial de monitoramento dos serviços da LInkWave Connect<br>Official website for monitoring LinkWave Connect Services"
   navbar:
-    - title: Site princiapl<br>Main site
+    - title: Site principal
       href: https://linkwaveconnect.com.br
-    - title: Status
-      href: /
+    - title: Main site
+      href: https://linkwaveconnect.com.br
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
