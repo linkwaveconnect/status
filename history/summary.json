@@ -76,9 +76,9 @@
     "url": "https://speed.openwave.net.br",
     "icon": "https://icons.duckduckgo.com/ip3/speed.openwave.net.br.ico",
     "slug": "open-wave-speed-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 1952,
     "timeMonth": 2934,
     "timeYear": 2934,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-03": 0
+    }
   },
   {
     "name": "GitWave",
@@ -142,7 +144,7 @@
     "timeMonth": 1980,
     "timeYear": 1980,
     "dailyMinutesDown": {
-      "2025-01-03": 85,
+      "2025-01-03": 1073,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
