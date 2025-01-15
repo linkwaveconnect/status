@@ -76,19 +76,19 @@
     "url": "https://speed.openwave.net.br",
     "icon": "https://icons.duckduckgo.com/ip3/speed.openwave.net.br.ico",
     "slug": "open-wave-speed-test",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2419,
-    "timeDay": 3546,
-    "timeWeek": 1731,
-    "timeMonth": 2189,
-    "timeYear": 2419,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 2376,
+    "timeDay": 2610,
+    "timeWeek": 1621,
+    "timeMonth": 2146,
+    "timeYear": 2376,
     "dailyMinutesDown": {
-      "2025-01-15": 1
+      "2025-01-15": 7
     }
   },
   {
@@ -144,7 +144,7 @@
     "timeMonth": 1606,
     "timeYear": 1848,
     "dailyMinutesDown": {
-      "2025-01-15": 701,
+      "2025-01-15": 707,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
