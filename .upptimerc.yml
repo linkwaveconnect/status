@@ -5,20 +5,28 @@ repo: status # The name of this repository
 sites:
   - name: LinkWave Connect
     url: https://linkwaveconnect.com.br
+  - name: Portal LinkWave
+    url: https://web.linkwaveconnect.com.br
+  - name: LinkWave Search
+    url: https://search.linkwaveconnect.com.br
   - name: LinkWave Marketing
     url: $MKT
   - name: LinkWave TI
     url: $OS
-  - name: Portal LinkWave / Conta Linkwave (LinkWave Account)
-    url: https://web.linkwaveconnect.com.br
-  - name: OpenWave SpeedTest
-    url: https://speed.openwave.net.br
+  - name: Conta OpenWave (OpenWave Account)
+    url: https://account.openwave.net.br
+  - name: OpenWave Cloud
+    url: https://cloud.openwave.net.br
   - name: GitWave
     url: https://git.openwave.net.br
+  - name: OpenWave Music
+    url: https://open.openwave.net.br
+  - name: OpenWave Certification Authority
+    url: https://ca.openwave.net.br
+  - name: Certificate repository
+    url: $CERTIFICADOS
   - name: KanWave
     url: https://kan.linkwaveconnect.com.br
-  - name: LinkBin
-    url: https://bin.openwave.net.br
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
