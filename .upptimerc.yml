@@ -23,6 +23,8 @@ sites:
     url: https://open.openwave.net.br
   - name: OpenWave Certification Authority
     url: https://ca.openwave.net.br
+    expectedStatusCodes:
+      - 403
   - name: Certificate repository
     url: $CERTIFICADOS
   - name: KanWave
