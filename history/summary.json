@@ -167,11 +167,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ca.openwave.net.br.ico",
     "slug": "open-wave-certification-authority",
     "status": "up",
-    "uptime": "98.73%",
+    "uptime": "99.03%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "98.73%",
-    "uptimeYear": "98.73%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "99.03%",
     "time": 1461,
     "timeDay": 200,
     "timeWeek": 1461,
@@ -204,9 +204,9 @@
     "url": "https://kan.linkwaveconnect.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/kan.linkwaveconnect.com.br.ico",
     "slug": "kan-wave",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -215,6 +215,8 @@
     "timeWeek": 969,
     "timeMonth": 808,
     "timeYear": 775,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-02": 0
+    }
   }
 ]
