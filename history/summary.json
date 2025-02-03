@@ -94,19 +94,19 @@
     "url": "https://account.openwave.net.br",
     "icon": "https://icons.duckduckgo.com/ip3/account.openwave.net.br.ico",
     "slug": "conta-open-wave-open-wave-account",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 6138,
-    "timeDay": 4205,
-    "timeWeek": 6138,
-    "timeMonth": 6138,
-    "timeYear": 6138,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 6304,
+    "timeDay": 5402,
+    "timeWeek": 6304,
+    "timeMonth": 6304,
+    "timeYear": 6304,
     "dailyMinutesDown": {
-      "2025-02-03": 1
+      "2025-02-03": 10
     }
   },
   {
