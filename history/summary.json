@@ -10,11 +10,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 1946,
-    "timeDay": 2881,
-    "timeWeek": 2022,
-    "timeMonth": 1872,
-    "timeYear": 1946,
+    "time": 1937,
+    "timeDay": 2355,
+    "timeWeek": 1950,
+    "timeMonth": 1856,
+    "timeYear": 1937,
     "dailyMinutesDown": {
       "2025-02-07": 18
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
-    "time": 3578,
-    "timeDay": 8472,
-    "timeWeek": 3552,
-    "timeMonth": 3578,
-    "timeYear": 3578,
+    "time": 3439,
+    "timeDay": 6149,
+    "timeWeek": 3347,
+    "timeMonth": 3439,
+    "timeYear": 3439,
     "dailyMinutesDown": {
       "2025-02-07": 18
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
-    "time": 869,
-    "timeDay": 1090,
-    "timeWeek": 829,
-    "timeMonth": 869,
-    "timeYear": 869,
+    "time": 857,
+    "timeDay": 959,
+    "timeWeek": 816,
+    "timeMonth": 857,
+    "timeYear": 857,
     "dailyMinutesDown": {
       "2025-02-07": 18
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 483,
-    "timeDay": 1046,
-    "timeWeek": 609,
-    "timeMonth": 502,
-    "timeYear": 483,
+    "time": 482,
+    "timeDay": 835,
+    "timeWeek": 590,
+    "timeMonth": 500,
+    "timeYear": 482,
     "dailyMinutesDown": {
       "2025-02-07": 17
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 952,
-    "timeDay": 3907,
-    "timeWeek": 1573,
-    "timeMonth": 1071,
-    "timeYear": 952,
+    "time": 954,
+    "timeDay": 2970,
+    "timeWeek": 1525,
+    "timeMonth": 1072,
+    "timeYear": 954,
     "dailyMinutesDown": {
       "2025-02-07": 17
     }
@@ -110,11 +110,11 @@
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.60%",
-    "time": 5523,
-    "timeDay": 5034,
-    "timeWeek": 4910,
-    "timeMonth": 5523,
-    "timeYear": 5523,
+    "time": 5305,
+    "timeDay": 4303,
+    "timeWeek": 4639,
+    "timeMonth": 5305,
+    "timeYear": 5305,
     "dailyMinutesDown": {
       "2025-02-08": 21,
       "2025-02-07": 27
@@ -131,11 +131,11 @@
     "uptimeWeek": "98.78%",
     "uptimeMonth": "98.96%",
     "uptimeYear": "98.96%",
-    "time": 7724,
-    "timeDay": 14373,
-    "timeWeek": 6244,
-    "timeMonth": 7724,
-    "timeYear": 7724,
+    "time": 7525,
+    "timeDay": 10764,
+    "timeWeek": 6052,
+    "timeMonth": 7525,
+    "timeYear": 7525,
     "dailyMinutesDown": {
       "2025-02-07": 17,
       "2025-02-06": 39,
@@ -153,11 +153,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 2635,
-    "timeDay": 6862,
-    "timeWeek": 2940,
-    "timeMonth": 2819,
-    "timeYear": 2635,
+    "time": 2598,
+    "timeDay": 4648,
+    "timeWeek": 2668,
+    "timeMonth": 2749,
+    "timeYear": 2598,
     "dailyMinutesDown": {
       "2025-02-07": 17
     }
@@ -173,11 +173,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
-    "time": 2508,
-    "timeDay": 5311,
-    "timeWeek": 2549,
-    "timeMonth": 2508,
-    "timeYear": 2508,
+    "time": 2736,
+    "timeDay": 5514,
+    "timeWeek": 2886,
+    "timeMonth": 2736,
+    "timeYear": 2736,
     "dailyMinutesDown": {
       "2025-02-07": 17
     }
@@ -193,16 +193,34 @@
     "uptimeWeek": "95.01%",
     "uptimeMonth": "98.85%",
     "uptimeYear": "99.37%",
-    "time": 842,
-    "timeDay": 3014,
-    "timeWeek": 1252,
-    "timeMonth": 923,
-    "timeYear": 842,
+    "time": 844,
+    "timeDay": 2320,
+    "timeWeek": 1217,
+    "timeMonth": 924,
+    "timeYear": 844,
     "dailyMinutesDown": {
       "2025-02-07": 16,
       "2025-02-03": 81,
       "2025-02-02": 405
     }
+  },
+  {
+    "name": "OpenWave Calendar and Contact Sync",
+    "url": "https://cal.openwave.net.br",
+    "icon": "https://icons.duckduckgo.com/ip3/cal.openwave.net.br.ico",
+    "slug": "open-wave-calendar-and-contact-sync",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 7202,
+    "timeDay": 7202,
+    "timeWeek": 7202,
+    "timeMonth": 7202,
+    "timeYear": 7202,
+    "dailyMinutesDown": {}
   },
   {
     "name": "OpenWave Certification Authority",
@@ -215,11 +233,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.54%",
-    "time": 1863,
-    "timeDay": 2791,
-    "timeWeek": 1946,
-    "timeMonth": 1863,
-    "timeYear": 1863,
+    "time": 1752,
+    "timeDay": 1925,
+    "timeWeek": 1771,
+    "timeMonth": 1752,
+    "timeYear": 1752,
     "dailyMinutesDown": {
       "2025-02-07": 16,
       "2025-01-30": 38
@@ -236,11 +254,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 1785,
-    "timeDay": 803,
-    "timeWeek": 2228,
-    "timeMonth": 1785,
-    "timeYear": 1785,
+    "time": 1669,
+    "timeDay": 588,
+    "timeWeek": 2021,
+    "timeMonth": 1669,
+    "timeYear": 1669,
     "dailyMinutesDown": {
       "2025-02-07": 15
     }
