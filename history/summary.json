@@ -138,18 +138,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.openwave.net.br.ico",
     "slug": "open-wave-cloud",
     "status": "down",
-    "uptime": "92.40%",
+    "uptime": "92.24%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "75.73%",
-    "uptimeMonth": "92.40%",
-    "uptimeYear": "92.40%",
+    "uptimeWeek": "75.15%",
+    "uptimeMonth": "92.24%",
+    "uptimeYear": "92.24%",
     "time": 7767,
     "timeDay": 0,
     "timeWeek": 7071,
     "timeMonth": 7767,
     "timeYear": 7767,
     "dailyMinutesDown": {
-      "2025-02-23": 631,
+      "2025-02-23": 690,
       "2025-02-22": 1440,
       "2025-02-21": 359,
       "2025-02-17": 16,
@@ -278,9 +278,9 @@
     "url": "$CERTIFICADOS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "certificate-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
@@ -290,6 +290,7 @@
     "timeMonth": 1860,
     "timeYear": 1860,
     "dailyMinutesDown": {
+      "2025-02-23": 0,
       "2025-02-07": 15
     }
   }
