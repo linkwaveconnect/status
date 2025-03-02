@@ -15,8 +15,6 @@ sites:
     url: $OS
   - name: Conta OpenWave (OpenWave Account)
     url: https://account.openwave.net.br
-  - name: OpenWave Cloud
-    url: https://cloud.openwave.net.br
   - name: GitWave
     url: https://git.openwave.net.br
   - name: OpenWave Music
