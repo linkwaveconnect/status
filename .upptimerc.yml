@@ -9,8 +9,6 @@ sites:
     url: https://web.linkwaveconnect.com.br
   - name: LinkWave Search
     url: https://search.linkwaveconnect.com.br
-  - name: LinkWave Marketing
-    url: $MKT
   - name: LinkWave TI
     url: $OS
   - name: Conta OpenWave (OpenWave Account)
