@@ -17,10 +17,6 @@ sites:
     url: https://account.openwave.net.br
   - name: GitWave
     url: https://git.openwave.net.br
-  - name: OpenWave Music
-    url: https://open.openwave.net.br
-  - name: KanWave
-    url: https://kan.openwave.net.br
   - name: OpenWave Calendar and Contact Sync
     url: https://cal.openwave.net.br
   - name: OpenWave Certification Authority
