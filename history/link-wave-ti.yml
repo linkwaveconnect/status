@@ -1,7 +1,7 @@
 url: $OS
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-08T23:21:38.228Z
+status: up
+code: 200
+responseTime: 1117
+lastUpdated: 2025-04-08T23:54:42.741Z
 startTime: 2024-12-15T04:07:39.118Z
 generator: Upptime <https://github.com/upptime/upptime>
