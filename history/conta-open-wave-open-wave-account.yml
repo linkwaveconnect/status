@@ -1,7 +1,7 @@
 url: https://account.openwave.net.br
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-04T19:56:26.456Z
+status: up
+code: 200
+responseTime: 3406
+lastUpdated: 2025-05-04T20:14:14.433Z
 startTime: 2025-01-30T23:05:34.891Z
 generator: Upptime <https://github.com/upptime/upptime>
